@@ -1,0 +1,25 @@
+{
+  "name": "travel-site01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prallum001/travel-site01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prallum001/travel-site01/issues"
+  },
+  "homepage": "https://github.com/prallum001/travel-site01#readme",
+  "description": ""
+}
